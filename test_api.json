@@ -1,0 +1,10 @@
+{
+  "messages": [
+    {
+      "role": "user", 
+      "content": "Hello! This is a test message from the Cognitive Companion project. Please respond briefly."
+    }
+  ],
+  "temperature": 0.7,
+  "max_tokens": 100
+}
