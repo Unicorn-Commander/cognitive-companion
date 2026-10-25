@@ -5,7 +5,7 @@
 Cognitive Companion is a native desktop application that combines the power of The_Colonel (Open Interpreter fork) with an engaging, animated character interface. Built with Tauri and Svelte, it provides a seamless desktop experience with embedded AI capabilities, character animations, and voice synthesis.
 
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache--2.0-green)
 ![Status](https://img.shields.io/badge/status-Active%20Development-orange)
 
 ## ✨ Features
@@ -209,7 +209,9 @@ cd The_Colonel && source venv/bin/activate && interpreter --openwebui_server --p
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Cognitive Companion is licensed under the [Apache License 2.0](LICENSE). The licence covers the code; the Magic Unicorn and Unicorn Commander names and logos are trademarks (see [TRADEMARKS.md](TRADEMARKS.md)).
+
+It bundles The Colonel (`src-tauri/resources/the_colonel`), a fork of Open Interpreter licensed under the GNU AGPL v3.0, and a Python environment whose packages keep their own licences. The Apache licence does not cover those parts; see [NOTICE](NOTICE).
 
 ## 🙏 Acknowledgments
 
