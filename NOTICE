@@ -1,0 +1,9 @@
+Cognitive Companion
+Copyright 2025-2026 Magic Unicorn Unconventional Technology & Stuff Inc.
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+"Magic Unicorn", "Unicorn Commander" and the app names and logos are trademarks; see TRADEMARKS.md.
+
+This repository also bundles third-party components that keep their own licences and are NOT covered by the Apache License:
+- src-tauri/resources/the_colonel: The Colonel, a fork of Open Interpreter, licensed under the GNU Affero General Public License v3.0 (see its LICENSE).
+- src-tauri/resources/the_colonel/venv: a Python environment; each package's licence is in its dist-info directory.
